@@ -126,5 +126,5 @@ Now you can import the gcc compiler in you machine
 module load gcc-8.5.0
 ```
 
-
+Now install FFTW, will come back later and complete it.
 
